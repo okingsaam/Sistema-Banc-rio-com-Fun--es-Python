@@ -1,0 +1,61 @@
+{
+    "05fc000288": {
+        "id": "05fc000288",
+        "nome": "Alice",
+        "cpf": "11122233344",
+        "email": "alice@example.com",
+        "saldo": 50.0,
+        "criado_em": "2025-12-04T02:48:14.322948Z",
+        "transacoes": [
+            {
+                "tipo": "deposito",
+                "valor": 100.0,
+                "data": "2025-12-04T02:48:14.322984Z",
+                "descricao": "Depósito inicial"
+            },
+            {
+                "tipo": "saque",
+                "valor": 30.0,
+                "data": "2025-12-04T02:48:14.322995Z",
+                "descricao": "Saque ATM"
+            },
+            {
+                "tipo": "transferencia_saida",
+                "valor": 20.0,
+                "data": "2025-12-04T02:48:14.322999Z",
+                "descricao": "Pagamento"
+            }
+        ]
+    },
+    "d9369af496": {
+        "id": "d9369af496",
+        "nome": "Bob",
+        "cpf": "22233344455",
+        "email": "bob@example.com",
+        "saldo": 70.0,
+        "criado_em": "2025-12-04T02:48:14.322977Z",
+        "transacoes": [
+            {
+                "tipo": "deposito",
+                "valor": 50.0,
+                "data": "2025-12-04T02:48:14.322990Z",
+                "descricao": null
+            },
+            {
+                "tipo": "transferencia_entrada",
+                "valor": 20.0,
+                "data": "2025-12-04T02:48:14.323002Z",
+                "descricao": "Pagamento"
+            }
+        ]
+    },
+    "688df44508": {
+        "id": "688df44508",
+        "nome": "Sam Douglas Francisco ",
+        "cpf": "999.999.999.99",
+        "email": "seunome@gmail.com",
+        "saldo": 0.0,
+        "criado_em": "2025-12-04T02:49:11.534689Z",
+        "transacoes": []
+    }
+}
